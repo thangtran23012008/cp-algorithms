@@ -6,7 +6,7 @@ e_maxx_link: prufer_code_cayley_formula
 
 # Prüfer code
 
-In this article we will look at the so-called **Prüfer code** (or Prüfer sequence), which is a way of encoding a labeled tree into a sequence of numbers in a unique way.
+In this article we will look at the so-called **Prüfer code** (or Prüfer sequence), which is a way of encoding a labeled tree into a sequence of numbers in an unique way.
 
 With the help of the Prüfer code we will prove **Cayley's formula** (which specified the number of spanning trees in a complete graph).
 Also we show the solution to the problem of counting the number of ways of adding edges to a graph to make it connected.
